@@ -13,14 +13,14 @@ in doing the work of fixing them!
 
 Finding the mistakes will be a useful revision, though.
 
-Activating Gilt
+Activating Git
 ==============
 
 To turn on the version control system, use:
 
 ``` bash
 cd my_work_folder
-gilt begin
+git init
 ```
 
 Tell Gilt about a new file
