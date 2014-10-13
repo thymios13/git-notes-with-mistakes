@@ -73,12 +73,12 @@ Transmit chunks to remote chunkstore
 ====================================
 
 ```
-gilt transmit
+git push
 ```
 
 Fetch chunks from remote chunkstore
 ===================================
 
 ```
-gilt download
+git pull
 ```
