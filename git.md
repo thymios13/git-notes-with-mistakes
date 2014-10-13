@@ -23,12 +23,12 @@ cd my_work_folder
 git init
 ```
 
-Tell Gilt about a new file
+Tell Git about a new file
 ======================
 
 ```
 vim my_file # Edit file
-gilt include my_file
+git add my_file
 ```
 
 Include changes in a file into the next work chunk 
