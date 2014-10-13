@@ -35,7 +35,7 @@ Include changes in a file into the next work chunk
 ==============================================
 
 ```
-git committttt  my_file
+git commit  my_file
 ```
 
 This includes the changes to that file in a list of changes
