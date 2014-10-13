@@ -45,14 +45,14 @@ Include all scheduled changes into a work chunk
 ===============================================
 
 ```
-gilt chunk -m "Journal entry"
+git commit -a -m "Journal entry"
 ```
 
 Store all scheduled changes in a new chunk
 ==========================================
 
 ```
-gilt include --uptodate
+gilt add --update
 ```
 
 Include all changes *and* chunk them
