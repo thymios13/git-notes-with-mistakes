@@ -1,5 +1,5 @@
 ---
-title: Fake Wrong Gilt Notes
+title: Fake Wrong Git Notes
 ---
 
 Introduction
